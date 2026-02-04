@@ -14,7 +14,7 @@ designed to be deployed as a static site using **GitHub Pages**.
 ---
 
 ## 🚀 Live Demo
-(https://mohdtariqueraza.github.io/uswds-pricing-page/)
+https://mohdtariqueraza.github.io/uswds-pricing-page/
 
 ---
 
