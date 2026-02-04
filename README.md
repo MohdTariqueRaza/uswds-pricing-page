@@ -1,40 +1,23 @@
 # USWDS Pricing Page Template
 
-This repository contains a responsive **Pricing page template** built using the
-**U.S. Web Design System (USWDS)**.
+This repository contains a new **Pricing Page template** built using the **U.S. Web Design System (USWDS)** as part of the evaluation task.
 
-The page follows USWDS accessibility and responsive design guidelines and is
-designed to be deployed as a static site using **GitHub Pages**.
+## 📌 Task Overview
 
----
+The objective of this task was to:
+- Understand the USWDS project structure
+- Add a new page/template that does not exist in the current repository
+- Follow USWDS best practices (layout, spacing, typography, accessibility)
+- Deploy the updated project on GitHub Pages
 
-## 📄 Page Included
-- Pricing page template
+## 🆕 What Was Added
 
----
+- A new **Pricing Page template** (`index.html`)
+- Page layout and components follow USWDS design patterns
+- Responsive design for desktop, tablet, and mobile
+- Accessible markup following USWDS guidelines
 
 ## 🚀 Live Demo
-https://mohdtariqueraza.github.io/uswds-pricing-page/
 
----
-
-## 📌 Task Description
-This project was created as part of a task to **add a new page template to an existing repository**
-using the U.S. Web Design System.
-
----
-
-## ♿ Accessibility
-- Semantic HTML
-- Mobile-first responsive layout
-- USWDS-compliant components
-
----
-
-## 📂 Deployment
-The site is deployed using **GitHub Pages** directly from the `main` branch.
-
----
-
-## 📬 Author
-Mohammad Tarique Raza
+GitHub Pages URL:  
+👉 https://mohdtariqueraza.github.io/uswds-pricing-page
